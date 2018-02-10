@@ -102,3 +102,7 @@ ENV/
 
 # keep PyCharm files out of git
 .idea/
+
+.idea/vcs.xml
+
+models/
